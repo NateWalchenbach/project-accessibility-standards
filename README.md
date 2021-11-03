@@ -17,7 +17,9 @@ Below are some of the changes made to the project
 <ol>Changed div tag to aside tag,</ol>
 <ol>Changed div tag to section tag,</ol>
 </ul>
+
 `CSS CHANGES:`
+
 <ul>
 <ol>Consolidated header tag,</ol>
 <ol>Consolitated benefits tag,</ol>
