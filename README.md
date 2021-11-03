@@ -10,17 +10,18 @@ Below are some of the changes made to the project
 
 `HTML CHANGES:`
 
-Changed div tag to nav tag
-Changed div tag to header tag
-Changed div tag to article tag
-Changed div tag to aside tag
-Changed div tag to section tag
-
+<ul>
+<ol>Changed div tag to nav tag,</ol>
+<ol>Changed div tag to header tag,</ol>
+<ol>Changed div tag to article tag,</ol>
+<ol>Changed div tag to aside tag,</ol>
+<ol>Changed div tag to section tag,</ol>
+</ul>
 `CSS CHANGES:`
 
-Consolidated header tag
-Consolitated benefits tag
-Consolitated search engine product tag
+Consolidated header tag,
+Consolitated benefits tag,
+Consolitated search engine product tag,
 
 `SCREENSHOT:`
 
