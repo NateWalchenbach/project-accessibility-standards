@@ -24,4 +24,4 @@ CSS CHANGES:
 
 SCREENSHOT:
 
-![image]()
+![image](https://github.com/NateWalchenbach/project-accessibility-standards/blob/main/Screenshot.jpg?raw=true)
