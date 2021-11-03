@@ -18,10 +18,11 @@ Below are some of the changes made to the project
 <ol>Changed div tag to section tag,</ol>
 </ul>
 `CSS CHANGES:`
-
-Consolidated header tag,
-Consolitated benefits tag,
-Consolitated search engine product tag,
+<ul>
+<ol>Consolidated header tag,</ol>
+<ol>Consolitated benefits tag,</ol>
+<ol>Consolitated search engine product tag,</ol>
+</ul>
 
 `SCREENSHOT:`
 
