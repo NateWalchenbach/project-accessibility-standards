@@ -18,6 +18,11 @@ Below are some of the changes made to the project
 <ol>Changed div tag to section tag,</ol>
 </ul>
 
+In the index.html document we also:
+
+- Added alt tags to images
+- Fixed a navigation link
+
 `CSS CHANGES:`
 
 <ul>
