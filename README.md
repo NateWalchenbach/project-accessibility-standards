@@ -10,11 +10,11 @@ Below are some of the changes made to the project
 
 `HTML CHANGES:`
 
-Changed "<div>" tag to <nav> tag
-Changed <div> tag to <header> tag
-Changed <div> tag to <article> tag
-Changed <div> tag to <aside> tag
-Changed <div> tag to <section> tag
+Changed div tag to nav tag
+Changed div tag to header tag
+Changed div tag to article tag
+Changed div tag to aside tag
+Changed div tag to section tag
 
 `CSS CHANGES:`
 
