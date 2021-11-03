@@ -7,11 +7,11 @@
 body {
   background-color: #d9dcd6;
 }
-
+/* Changed font family */
 header {
   padding: 20px;
-  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
-    "Lucida Sans", Arial, sans-serif;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+    sans-serif "Lucida Sans", Arial, sans-serif;
   background-color: #2a607c;
   color: #ffffff;
 }
@@ -24,7 +24,7 @@ header h1 {
 header h1 .seo {
   color: #d9dcd6;
 }
-
+/* Changed div to nav */
 header nav {
   padding-top: 15px;
   margin-right: 20px;
@@ -32,10 +32,12 @@ header nav {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   font-size: 20px;
 }
+/* Changed div to nav */
 
 header nav ul {
   list-style-type: none;
 }
+/* Changed div to nav */
 
 header nav ul li {
   display: inline-block;
@@ -86,23 +88,25 @@ p {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   background-color: #2589bd;
 }
-
+/* Consolitated 3 benefits tag to one class caleed .benefits-tag */
 .benefit-tag {
   margin-bottom: 32px;
   color: #ffffff;
 }
+/* Consolitated 3 benefits tag to one class caleed .benefits-tag */
 
 .benefit-tag h3 {
   margin-bottom: 10px;
   text-align: center;
 }
+/* Consolitated 3 benefits tag to one class caleed .benefits-tag */
 
 .benefit-tag img {
   display: block;
   margin: 10px auto;
   max-width: 150px;
 }
-
+/* Consolitated like classes into one class */
 .searchEngineProduct {
   margin-bottom: 20px;
   padding: 50px;
@@ -111,21 +115,22 @@ p {
   background-color: #0072bb;
   color: #ffffff;
 }
+/* Consolitated like classes into one class */
 
 .searchEngineProduct img {
   max-height: 200px;
 }
+/* Consolitated like classes into one class */
 
 .searchEngineProduct h2 {
   margin-bottom: 20px;
   font-size: 36px;
 }
-
+/* Changed font family to be alike */
 footer {
   padding: 30px;
   clear: both;
-  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
-    "Lucida Sans", Arial, sans-serif;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   text-align: center;
 }
 
