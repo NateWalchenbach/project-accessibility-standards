@@ -6,22 +6,22 @@ Throughout this hw assignment, we hae learned a number of skills to further adva
 2. Consolidating our css classes
 3. Linking images in html with alt tags.
 
-`Below are some of the changes made to the project`
+Below are some of the changes made to the project
 
-HTML CHANGES:
+`HTML CHANGES:`
 
-<!-- Changed <div> tag to <nav> tag -->
-<!-- Changed <div> tag to <header> tag -->
-<!-- Changed <div> tag to <article> tag -->
-<!-- Changed <div> tag to <aside> tag -->
-<!-- Changed <div> tag to <section> tag -->
+Changed <div> tag to <nav> tag
+Changed <div> tag to <header> tag
+Changed <div> tag to <article> tag
+Changed <div> tag to <aside> tag
+Changed <div> tag to <section> tag
 
-CSS CHANGES:
+`CSS CHANGES:`
 
-<!-- Consolidated header tag -->
-<!-- Consolitated benefits tag  -->
-<!-- Consolitated search engine product tag -->
+Consolidated header tag
+Consolitated benefits tag
+Consolitated search engine product tag
 
-SCREENSHOT:
+`SCREENSHOT:`
 
 ![image](https://github.com/NateWalchenbach/project-accessibility-standards/blob/main/Screenshot.jpg?raw=true)
