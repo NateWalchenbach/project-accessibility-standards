@@ -21,3 +21,7 @@ CSS CHANGES:
 <!-- Consolidated header tag -->
 <!-- Consolitated benefits tag  -->
 <!-- Consolitated search engine product tag -->
+
+SCREENSHOT:
+
+![image]()
