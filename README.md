@@ -4,6 +4,7 @@
 https://natewalchenbach.github.io/project-accessibility-standards/
 
 `Public Repo Link`
+https://github.com/NateWalchenbach/project-accessibility-standards
 
 Throughout this hw assignment, we hae learned a number of skills to further advance our development knowledge. Some of them are:
 
